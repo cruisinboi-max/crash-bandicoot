@@ -1,0 +1,1 @@
+Build a 3D browser platformer inspired by Crash Bandicoot, with an original character and artwork. Start with one short jungle level featuring running, jumping, a spin attack, breakable crates, collectibles, and a finish line. Use keyboard controls and prioritize responsive movement.
